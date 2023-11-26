@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="center">ᴢᴏᴍʙɪᴇ ᴘʟᴀɢᴜᴇ ᴇxᴛᴇɴᴅᴇᴅ>
+<align="center">**ᴢᴏᴍʙɪᴇ ᴘʟᴀɢᴜᴇ ᴇxᴛᴇɴᴅᴇᴅ**
 
 ###
 
