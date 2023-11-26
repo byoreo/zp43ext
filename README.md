@@ -24,7 +24,7 @@
 
 *Note : More features will be added with updates.*
 
-[Click here](https://github.com/byoreo/zp43ext/archive/refs/heads/main.zip) 
+[**install**](https://github.com/byoreo/zp43ext/archive/refs/heads/main.zip) 
 
 ### • Special thanks to
 [@iQuitt](https://github.com/iQuitt)
