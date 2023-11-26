@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/issues/byoreo/zp43ext) ![](https://img.shields.io/github/forks/byoreo/zp43ext) ![](https://img.shields.io/github/stars/byoreo/zp43ext) ![](https://img.shields.io/github/license/byoreo/zp43ext)
+![](https://img.shields.io/github/forks/byoreo/zp43ext) ![](https://img.shields.io/github/stars/byoreo/zp43ext) 
   
 </div>
 
